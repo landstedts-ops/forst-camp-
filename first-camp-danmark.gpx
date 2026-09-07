@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="ChatGPT">
+  <metadata>
+    <name>First Camp Danmark</name>
+    <desc>First Camp-destinationer i Danmark</desc>
+  </metadata>
+  <wpt lat="55.56194" lon="10.08583">
+    <name>First Camp Bogense City – Fyn</name>
+    <desc>Vestre Engvej 11, 5400 Bogense, Danmark</desc>
+    <type>Camping</type>
+  </wpt>
+  <wpt lat="55.193052013002" lon="10.806373205221">
+    <name>First Camp Bøsøre Strand – Fyn</name>
+    <desc>Bøsørevej 16, 5874 Hesselager, Danmark</desc>
+    <type>Camping</type>
+  </wpt>
+  <wpt lat="55.506519368996" lon="9.8996087142922">
+    <name>First Camp Skovlund – Lillebælt</name>
+    <desc>Kystvejen 1, 5466 Asperup, Danmark</desc>
+    <type>Camping</type>
+  </wpt>
+  <wpt lat="55.562935636007" lon="10.455790783464">
+    <name>First Camp Hasmark Strand – Fyn</name>
+    <desc>Strandvejen 205, 5450 Otterup, Danmark</desc>
+    <type>Camping</type>
+  </wpt>
+  <wpt lat="54.842707102519" lon="9.4595418968069">
+    <name>First Camp Frigård – Flensborg Fjord</name>
+    <desc>Kummelefort 14, 6340 Kollund, Danmark</desc>
+    <type>Camping</type>
+  </wpt>
+  <wpt lat="57.654928375313" lon="10.45111559434">
+    <name>First Camp Råbjerg Mile – Skagen</name>
+    <desc>Kandestedvej 55, 9990 Skagen, Danmark</desc>
+    <type>Camping</type>
+  </wpt>
+  <wpt lat="57.133811909452" lon="9.1721321005731">
+    <name>First Camp Klim Strand – Nordvestkysten</name>
+    <desc>Havvejen 167, 9690 Fjerritslev, Danmark</desc>
+    <type>Camping</type>
+  </wpt>
+  <wpt lat="56.22805" lon="10.16388">
+    <name>First Camp Aarhus – Jylland</name>
+    <desc>Randersvej 400, 8200 Aarhus N, Danmark</desc>
+    <type>Camping</type>
+  </wpt>
+  <wpt lat="55.145869" lon="8.493346">
+    <name>First Camp Lakolk Strand – Rømø</name>
+    <desc>Lakolk Camping 2, 6792 Rømø, Danmark</desc>
+    <type>Camping</type>
+  </wpt>
+  <wpt lat="55.661028557015" lon="11.762886559572">
+    <name>First Camp Tempelkrogen – Holbæk</name>
+    <desc>Krogvejen 2, 4390 Vipperød, Danmark</desc>
+    <type>Camping</type>
+  </wpt>
+  <wpt lat="55.717953796466" lon="11.760874056555">
+    <name>First Camp Holbæk Fjord – Sjælland</name>
+    <desc>Sofiesminde Allé 1, 4300 Holbæk, Danmark</desc>
+    <type>Camping</type>
+  </wpt>
+  <wpt lat="56.041257041023" lon="10.264416234722">
+    <name>First Camp Ajstrup Strand – Aarhus</name>
+    <desc>Ajstrup Strandvej 81, 8340 Malling, Danmark</desc>
+    <type>Camping</type>
+  </wpt>
+  <wpt lat="57.731296014136" lon="10.614157645804">
+    <name>First Camp Grenen Strand – Skagen</name>
+    <desc>Fyrvej 16, 9990 Skagen, Danmark</desc>
+    <type>Camping</type>
+  </wpt>
+  <wpt lat="55.1053343133" lon="10.107825560808">
+    <name>First Camp Bøjden Strand – Fyn</name>
+    <desc>Bøjden Landevej 12, 5600 Faaborg, Danmark</desc>
+    <type>Camping</type>
+  </wpt>
+</gpx>
