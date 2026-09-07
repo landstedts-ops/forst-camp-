@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Scenic" xmlns="http://www.topografix.com/GPX/1/1">
+  <wpt lat="59.444861" lon="9.062611">
+    <name>First Camp Bo Telemark</name>
+  </wpt>
+  <wpt lat="59.3875516" lon="9.2632921">
+    <name>First Camp Norsjo Telemark</name>
+  </wpt>
+  <wpt lat="59.2977223" lon="9.0908767">
+    <name>First Camp Lunde Telemark</name>
+  </wpt>
+  <wpt lat="60.699889" lon="9.004306">
+    <name>First Camp Gol Hallingdal</name>
+  </wpt>
+  <wpt lat="61.2414761" lon="8.9201742">
+    <name>First Camp Beitostolen Valdres</name>
+  </wpt>
+</gpx>
