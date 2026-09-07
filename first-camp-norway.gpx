@@ -1,32 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx version="1.1" creator="ChatGPT" xmlns="http://www.topografix.com/GPX/1/1">
-   <metadata>
-    <name>First Camp Norge</name>
-    <desc>First Camp-destinasjoner i Norge</desc>
-  </metadata>
+<gpx version="1.1" creator="Scenic" xmlns="http://www.topografix.com/GPX/1/1">
   <wpt lat="59.444861" lon="9.062611">
-    <name>First Camp Bø – Telemark</name>
-    <desc>Lifjellvegen 51, 3804 Bø i Telemark</desc>
-    <type>Camping</type>
+    <name>First Camp Bo Telemark</name>
   </wpt>
   <wpt lat="59.3875516" lon="9.2632921">
-    <name>First Camp Norsjø – Telemark</name>
-    <desc>Liagrendvegen 71, 3812 Akkerhaugen</desc>
-    <type>Camping</type>
+    <name>First Camp Norsjo Telemark</name>
   </wpt>
   <wpt lat="59.2977223" lon="9.0908767">
-    <name>First Camp Lunde – Telemark</name>
-    <desc>Sluseveien 21, 3825 Lunde</desc>
-    <type>Camping</type>
+    <name>First Camp Lunde Telemark</name>
   </wpt>
   <wpt lat="60.699889" lon="9.004306">
-    <name>First Camp Gol – Hallingdal</name>
-    <desc>Heradvegen 189, 3550 Gol</desc>
-    <type>Camping</type>
+    <name>First Camp Gol Hallingdal</name>
   </wpt>
   <wpt lat="61.2414761" lon="8.9201742">
-    <name>First Camp Beitostølen – Valdres</name>
-    <desc>Finntøppvegen 2A, 2953 Beitostølen</desc>
-    <type>Camping</type>
+    <name>First Camp Beitostolen Valdres</name>
   </wpt>
 </gpx>
