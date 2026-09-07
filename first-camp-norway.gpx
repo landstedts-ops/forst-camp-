@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx ...>
+
+  <wpt lat="..." lon="...">
+    <name>First Camp Bø - Telemark</name>
+  </wpt>
+
+  <wpt lat="..." lon="...">
+    <name>First Camp Lunde - Telemark</name>
+  </wpt>
+
+</gpx>
