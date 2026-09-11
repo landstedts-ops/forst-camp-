@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" creator="ChatGPT" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>First Camp kvar att besöka - Sverige</name>
+    <desc>Obesökta First Camp-destinationer i Sverige, uppdaterad 2026-09-11.</desc>
+  </metadata>
+  <wpt lat="57.00986300" lon="12.35090700">
+    <name>First Camp Björkäng - Varberg</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="58.93042500" lon="11.18023700">
+    <name>First Camp City - Strömstad</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="59.08287106" lon="12.88539212">
+    <name>First Camp Duse Udde - Säffle</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="58.71186704" lon="11.23530594">
+    <name>First Camp Edsvik - Grebbestad</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="56.79340338" lon="16.56653982">
+    <name>First Camp Ekerum - Öland</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="58.71540100" lon="13.79516700">
+    <name>First Camp Ekudden - Mariestad</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="60.89039310" lon="15.13184000">
+    <name>First Camp Enåbadet - Rättvik</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="58.02796667" lon="14.45890000">
+    <name>First Camp Gränna - Vättern</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="57.25192925" lon="16.49228458">
+    <name>First Camp Gunnarsö - Oskarshamn</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="59.81950858" lon="12.33168809">
+    <name>First Camp Haganäset - Charlottenberg</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="56.63574072" lon="12.90002910">
+    <name>First Camp Hagön - Halmstad</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="59.30806814" lon="14.06780595">
+    <name>First Camp Herrgårdsliv - Kristinehamn</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="58.09784800" lon="14.07543300">
+    <name>First Camp Hökensås - Tidaholm</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="56.65771500" lon="12.75641500">
+    <name>First Camp Karlstorp - Halmstad</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="58.66027408" lon="16.39960461">
+    <name>First Camp Kolmården - Norrköping</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="57.18288188" lon="12.22034443">
+    <name>First Camp Kärradal - Varberg</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="57.74359080" lon="11.75642040">
+    <name>First Camp Lilleby - Göteborg</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="60.61996500" lon="15.65317500">
+    <name>First Camp Lugnet - Falun</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="57.18157905" lon="17.05504140">
+    <name>First Camp Löttorp - Öland</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="59.31227684" lon="13.49720343">
+    <name>First Camp Mörudden - Hammarö</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="58.90693700" lon="17.93746600">
+    <name>First Camp Nickstabadet - Nynäshamn</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="59.52580932" lon="15.04323499">
+    <name>First Camp Nora - Bergslagen</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="61.12075720" lon="14.59926978">
+    <name>First Camp Orsa - Dalarna</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="56.00345750" lon="12.72935760">
+    <name>First Camp Råå Vallar - Helsingborg</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="56.56818000" lon="14.13213600">
+    <name>First Camp Sjöstugan - Älmhult</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="58.41129420" lon="13.55455320">
+    <name>First Camp Skara Sommarland</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="56.20172700" lon="15.60508100">
+    <name>First Camp Skönstavik - Karlskrona</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="58.39094733" lon="11.25751226">
+    <name>First Camp Solvik - Kungshamn</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="56.64984900" lon="16.32703400">
+    <name>First Camp Stensö - Kalmar</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="59.82478096" lon="13.14149897">
+    <name>First Camp Sunne - Fryksdalen</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="56.43103506" lon="12.64292905">
+    <name>First Camp Torekov - Båstad</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="56.66040481" lon="12.74081254">
+    <name>First Camp Tylösand - Halmstad</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="58.46458400" lon="14.93356700">
+    <name>First Camp Vadstena - Vättern</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="59.33682300" lon="14.94263100">
+    <name>First Camp Ånnaboda - Örebro</name>
+    <desc>KVAR ATT BESÖKA</desc>
+    <type>First Camp - obesökt</type>
+    <sym>Campground</sym>
+  </wpt>
+</gpx>
